@@ -2,6 +2,7 @@
 <img align="right" alt="Coding" width="1000" src="https://github.com/TayyabAli-1/TayyabAli-1/blob/main/use.gif"><br><br><br><br><br><br><br><br><br><br><br><br>
 <h1 align="center">Hi 👋, I'm Tayyab Ali</h1>
 <h3 align="center">🎓 BSCS Student | Aspiring Software Engineer | Passionate About Web Development & Cybersecurity</h3>
+<h4 align = "center">🔹 Skills: C++, DSA, OOP, HTML, CSS 🔹 Interests: Software Development, Cybersecurity, Web Technologies 🔹 Currently Learning: C++ DSA</h4>
 
 
 
